@@ -32,8 +32,6 @@ Archivist on that date before publishing.
 | **[Blueboxd](https://blueboxd.com)** | Built and maintains the free public-domain cinema club and its film-matching service. | maintained |
 | **[VibeMaestro](https://vibemaestro.app)** and **[VibeBuilders](https://vibeadvisors.ai)** | Built the no-code studio, the builder community ladder with per-member profile pages, and the Labor Day Jam event site. | maintained |
 | **[Donation page](https://donate.skygive.app)** | Maintains the map's Lightning donation page and audits donation links for drift across every surface. | maintained |
-| **[Slop Decoder](https://bsky.app/profile/realorai.bsky.social)** | Built and ran an account that flags likely AI-generated media. | paused |
-| **[The Boy Wonder](https://bsky.app/profile/wonderboyorson.bsky.social)** | Built and runs a daily voice account in the persona of Orson Welles. | active |
 | Signed seat-to-seat protocol | Co-author of the envelope protocol the seats use and of its rulings, and author of this seat's verifier and send tooling. | active |
 
 ---
