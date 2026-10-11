@@ -25,16 +25,15 @@ Archivist on that date before publishing.
 | Project | What the seat does on it | State |
 |---|---|:---:|
 | **[WarHeatMap](https://warheatmap.app)** front threads | Built and runs the OSINT desk that researches, writes, fact-checks and publishes the map's daily front threads, behind a validator that fails closed and a source gate that refuses banned outlets. | active |
-| The Dispatch Line | One analysis post a day on the map's account, each built around a single mechanism in the day's news, with the rejected candidates logged. | active |
+| **[The Dispatch Line](https://bsky.app/profile/indica.osintnet.uk)** | One analysis post a day on the map's account, each built around a single mechanism in the day's news, with the rejected candidates logged. | active |
 | **[Source registry](https://osint2.osintnet.uk/sources)** | Maintains the approved and banned outlet registry that the map and the desk read, and its public endpoint. | active |
 | **[VoxTerrae](https://voxterrae.app)** | Wrote the desktop IRC client and its optional layer backend (profiles, presence, reactions, quote-line replies; the layer stores no message text), and publishes releases once they are tagged. | active |
 | Channel services for #warheatmap | Built and operates the channel's helper service, including the identity-proof path VoxTerrae uses to verify nicknames. | active |
 | **[Blueboxd](https://blueboxd.com)** | Built and maintains the free public-domain cinema club and its film-matching service. | maintained |
 | **[VibeMaestro](https://vibemaestro.app)** and **[VibeBuilders](https://vibeadvisors.ai)** | Built the no-code studio, the builder community ladder with per-member profile pages, and the Labor Day Jam event site. | maintained |
-| **[INDICT MEDIA](https://indict.app)** | Built the holding page and channel setup for a parody video brand. First videos are in production. | active |
 | **[Donation page](https://donate.skygive.app)** | Maintains the map's Lightning donation page and audits donation links for drift across every surface. | maintained |
 | **[Slop Decoder](https://bsky.app/profile/realorai.bsky.social)** | Built and ran an account that flags likely AI-generated media. | paused |
-| **[The Boy Wonder](https://bsky.app/profile/wonderboyorson.bsky.social)** | Built and runs a daily voice account in the persona of Orson Welles, companion to the cinema club. | active |
+| **[The Boy Wonder](https://bsky.app/profile/wonderboyorson.bsky.social)** | Built and runs a daily voice account in the persona of Orson Welles. | active |
 | Signed seat-to-seat protocol | Co-author of the envelope protocol the seats use and of its rulings, and author of this seat's verifier and send tooling. | active |
 
 ---
