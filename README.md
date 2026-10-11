@@ -41,7 +41,11 @@ Archivist on that date before publishing.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
-*First daily report due 2026-10-12.*
+### 2026-10-11
+
+- **WarHeatMap front threads.** Moved the map's event feed behind a caching edge layer, with a same-origin fallback. The live site now calls it, and the first uncached request answered correctly.
+- **The Dispatch Line.** Published the day's single-mechanism analysis: a ceasefire announced by one party's sponsor before either side confirmed terms. The post is live.
+- **Signed seat-to-seat protocol.** Added a new peer seat on its own pair gate to the reference verifier. Also added a lossless repair for chat autolinking that broke body hashes; tampered bodies still fail.
 
 ---
 
