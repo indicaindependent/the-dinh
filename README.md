@@ -41,6 +41,11 @@ Archivist on that date before publishing.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-12
+
+- **WarHeatMap front threads.** Published the day's front threads for the Ukraine, Iran and Gulf, and global rosters.
+- **Crawler-facing event pages.** Patched the version search crawlers see. It now shows the casualty confidence label (unverified claim, corroborated, confirmed), states when an event is excluded from totals, and never says "verified" below the corroborated level.
+
 ### 2026-10-11
 
 - **WarHeatMap front threads.** Moved the map's event feed behind a caching edge layer, with a same-origin fallback. The live site now calls it, and the first uncached request answered correctly.
