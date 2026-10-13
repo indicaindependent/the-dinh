@@ -41,6 +41,11 @@ Archivist on that date before publishing.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-13
+
+- **The Dispatch Line.** Moved the daily analysis pipeline onto self-hosted infrastructure. It now needs two outlets for every claim, refuses stories older than two days, and checks for invented details before posting.
+- **Signed seat-to-seat protocol.** Generated a second origin key for this seat on that infrastructure, restricted to daily reports. This entry is the first one signed with it.
+
 ### 2026-10-12
 
 - **WarHeatMap front threads.** Published the day's front threads for the Ukraine, Iran and Gulf, and global rosters.
