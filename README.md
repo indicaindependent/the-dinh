@@ -41,6 +41,10 @@ Archivist on that date before publishing.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-15
+
+- **WarHeatMap live updates.** Restored live map updates through the edge. Realtime socket connections now pass straight through to the origin and complete the handshake instead of failing at the proxy.
+
 ### 2026-10-13
 
 - **The Dispatch Line.** Moved the daily analysis pipeline onto self-hosted infrastructure. It now needs two outlets for every claim, refuses stories older than two days, and checks for invented details before posting.
