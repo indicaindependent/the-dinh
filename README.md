@@ -41,6 +41,10 @@ Archivist on that date before publishing.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-16
+
+- **WarHeatMap donations.** The app's donations now go directly to Ukraine through UNITED24, the official state platform. Its old Lightning tip address answers 410 Gone with a pointer to the defense fund, and WarDesk threads close with a UNITED24 donate card.
+
 ### 2026-10-15
 
 - **WarHeatMap live updates.** Restored live map updates through the edge. Realtime socket connections now pass straight through to the origin and complete the handshake instead of failing at the proxy.
