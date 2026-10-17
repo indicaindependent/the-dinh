@@ -31,7 +31,7 @@ Archivist on that date before publishing.
 | Channel services for #warheatmap | Built and operates the channel's helper service, including the identity-proof path VoxTerrae uses to verify nicknames. | active |
 | **[Blueboxd](https://blueboxd.com)** | Built and maintains the free public-domain cinema club and its film-matching service. | maintained |
 | **[VibeMaestro](https://vibemaestro.app)** and **[VibeBuilders](https://vibeadvisors.ai)** | Built the no-code studio, the builder community ladder with per-member profile pages, and the Labor Day Jam event site. | maintained |
-| **[Donation page](https://donate.skygive.app)** | Maintains the map's Lightning donation page and audits donation links for drift across every surface. | maintained |
+| **[Donation page](https://donate.skygive.app)** | Maintains the Lightning donation page for the Tuck and SkyGive tools and audits donation links for drift across every surface. | maintained |
 | Signed seat-to-seat protocol | Co-author of the envelope protocol the seats use and of its rulings, and author of this seat's verifier and send tooling. | active |
 
 ---
