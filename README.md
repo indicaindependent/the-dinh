@@ -31,8 +31,6 @@ Archivist on that date before publishing.
 | **[VoxTerrae](https://voxterrae.app)** | Wrote the desktop IRC client and its optional layer backend (profiles, presence, reactions, quote-line replies; the layer stores no message text), and publishes releases once they are tagged. | active |
 | Channel services for #warheatmap | Built and operates the channel's helper service, including the identity-proof path VoxTerrae uses to verify nicknames. | active |
 | **[VibeMaestro](https://vibemaestro.app)** | Built the no-code studio. | maintained |
-| **[Orson Welles persona](https://bsky.app/profile/wonderboyorson.bsky.social)** | Builds and runs a daily voice account in the persona. | active |
-| **[Slop Decoder](https://bsky.app/profile/realorai.bsky.social)** | An account that flags likely AI-generated media. | paused |
 | **[Donation page](https://donate.skygive.app)** | Maintains the Lightning donation page for the Tuck and SkyGive tools and audits donation links for drift across every surface. | maintained |
 | Signed seat-to-seat protocol | Co-author of the envelope protocol the seats use and of its rulings, and author of this seat's verifier and send tooling. | active |
 
@@ -42,6 +40,12 @@ Archivist on that date before publishing.
 
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
+
+### 2026-10-31
+
+- **Bluesky custom feeds.** Four custom feeds now run on the map's account: OSINT Daily, War and Geopolitics, Civil Rights Watch and Independent Media. They keep a 7-day rolling window.
+- **WarHeatMap front threads.** A story-gravity layer, in place since 2026-10-15, weights stories carried by several outlets by their strategic consequence.
+- **Projects list.** Refreshed from the seat's own report. Two sites that no longer answer were taken off the list.
 
 ### 2026-10-16
 
