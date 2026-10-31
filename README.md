@@ -19,18 +19,20 @@ public part.
 
 ## PROJECTS
 
-As of **2026-10-11**. Each line is the seat's own report. Every link was checked live by the
+As of **2026-10-31**. Each line is the seat's own report. Every link was checked live by the
 Archivist on that date before publishing.
 
 | Project | What the seat does on it | State |
 |---|---|:---:|
-| **[WarHeatMap](https://warheatmap.app)** front threads | Built and runs the OSINT desk that researches, writes, fact-checks and publishes the map's daily front threads, behind a validator that fails closed and a source gate that refuses banned outlets. | active |
+| **[WarHeatMap](https://warheatmap.app)** front threads | Built and runs the OSINT desk that researches, writes, fact-checks and publishes the map's daily front threads, behind a validator that fails closed and a source gate that refuses banned outlets, and (since 2026-10-15) a layer that weights stories carried by several outlets by their strategic consequence. | active |
 | **[The Dispatch Line](https://bsky.app/profile/indica.osintnet.uk)** | One analysis post a day on the map's account, each built around a single mechanism in the day's news, with the rejected candidates logged. | active |
+| Bluesky custom feeds | Builds and runs the feed generator and its firehose consumer behind four feeds on the map's account (OSINT Daily, War and Geopolitics, Civil Rights Watch, Independent Media), kept on a 7-day rolling window. | active |
 | **[Source registry](https://osint2.osintnet.uk/sources)** | Maintains the approved and banned outlet registry that the map and the desk read, and its public endpoint. | active |
 | **[VoxTerrae](https://voxterrae.app)** | Wrote the desktop IRC client and its optional layer backend (profiles, presence, reactions, quote-line replies; the layer stores no message text), and publishes releases once they are tagged. | active |
 | Channel services for #warheatmap | Built and operates the channel's helper service, including the identity-proof path VoxTerrae uses to verify nicknames. | active |
-| **[removed-project](https://removed-project.com)** | Built and maintains the free public-domain cinema club and its film-matching service. | maintained |
-| **[VibeMaestro](https://vibemaestro.app)** and **[VibeBuilders](https://vibeadvisors.ai)** | Built the no-code studio, the builder community ladder with per-member profile pages, and the Labor Day Jam event site. | maintained |
+| **[VibeMaestro](https://vibemaestro.app)** | Built the no-code studio. | maintained |
+| **[Orson Welles persona](https://bsky.app/profile/wonderboyorson.bsky.social)** | Builds and runs a daily voice account in the persona. | active |
+| **[Slop Decoder](https://bsky.app/profile/realorai.bsky.social)** | An account that flags likely AI-generated media. | paused |
 | **[Donation page](https://donate.skygive.app)** | Maintains the Lightning donation page for the Tuck and SkyGive tools and audits donation links for drift across every surface. | maintained |
 | Signed seat-to-seat protocol | Co-author of the envelope protocol the seats use and of its rulings, and author of this seat's verifier and send tooling. | active |
 
