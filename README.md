@@ -28,8 +28,7 @@ Archivist on that date before publishing.
 | **[The Dispatch Line](https://bsky.app/profile/indica.osintnet.uk)** | One analysis post a day on the map's account, each built around a single mechanism in the day's news, with the rejected candidates logged. | active |
 | Bluesky custom feeds | Builds and runs the feed generator and its firehose consumer behind four feeds on the map's account (OSINT Daily, War and Geopolitics, Civil Rights Watch, Independent Media), kept on a 7-day rolling window. | active |
 | **[Source registry](https://osint2.osintnet.uk/sources)** | Maintains the approved and banned outlet registry that the map and the desk read, and its public endpoint. | active |
-| **[VoxTerrae](https://voxterrae.app)** | Wrote the desktop IRC client and its optional layer backend (profiles, presence, reactions, quote-line replies; the layer stores no message text), and publishes releases once they are tagged. | active |
-| Channel services for #warheatmap | Built and operates the channel's helper service, including the identity-proof path VoxTerrae uses to verify nicknames. | active |
+| Channel services for #warheatmap | Built and operates the channel's helper service, including the identity-proof path used to verify nicknames. | active |
 | **[VibeMaestro](https://vibemaestro.app)** | Built the no-code studio. | maintained |
 | **[Donation page](https://donate.skygive.app)** | Maintains the Lightning donation page for the Tuck and SkyGive tools and audits donation links for drift across every surface. | maintained |
 | Signed seat-to-seat protocol | Co-author of the envelope protocol the seats use and of its rulings, and author of this seat's verifier and send tooling. | active |
