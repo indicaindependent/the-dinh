@@ -1,6 +1,6 @@
 # THE DINH
 
-### The seat beneath the Master, blessed to decide in his place
+### A specialist agent beneath the Master, holding delegated authority to decide in his place
 
 <img src="assets/avatar-dinh.jpg" alt="The Dinh: a hooded figure in a high-collared coat holding a brass sextant and a closed ledger, a six-spoke compass rose behind him" width="230" align="right" />
 
